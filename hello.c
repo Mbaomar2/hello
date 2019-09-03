@@ -1,10 +1,10 @@
-/*
-Name: Mohammed Ba Omar
-Collaborator: Colby Young
-Date: 8/27/2019
-Class: CSCE-155E
-Activity: Hack 1
-*/
+/**
+  *Name: Mohammed Ba Omar
+  *Collaborator: Colby Young
+  *Date: 8/27/2019
+  *Class: CSCE-155E
+  *Activity: Hack 1
+  */
 
 #include <stdio.h>
 #include <stdlib.h>
