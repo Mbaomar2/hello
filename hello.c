@@ -2,7 +2,7 @@
 Name: Mohammed Ba Omar
 Date: 8/27/2019
 Class: CSCE-155E
-Activity: Lab 1
+Activity: Hack 1
 */
 
 #include <stdio.h>
