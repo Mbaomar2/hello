@@ -1,9 +1,11 @@
 /**
-  *Name: Mohammed Ba Omar
-  *Collaborator: Colby Young
-  *Date: 8/27/2019
-  *Class: CSCE-155E
-  *Activity: Hack 1
+  * Author: Mohammed Ba Omar
+  * Collaborator: Colby Young
+  * Date: 8/27/2019
+  * Class: CSCE-155E
+  * Activity: Hack 1
+  *
+  * A program prints names and majors of author and collaborator
   */
 
 #include <stdio.h>
